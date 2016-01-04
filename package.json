@@ -1,6 +1,6 @@
 {
   "name": "ionic-release",
-  "version": "1.2.0-nightly-1837",
+  "version": "1.2.4",
   "description": "ionic npm package",
   "main": "index.js",
   "scripts": {
