@@ -2,13 +2,13 @@
   "name": "ionic-release",
   "version": "1.2.4",
   "description": "ionic npm package",
-  "main": "index.js",
+  "main": "js/ionic.bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Brooooooklyn/ionic-npm.git"
+    "url": "git+https://github.com/Brooooooklyn/ionic-release.git"
   },
   "keywords": [
     "ionic",
@@ -19,7 +19,7 @@
   "author": "driftyco",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Brooooooklyn/ionic-npm/issues"
+    "url": "https://github.com/Brooooooklyn/ionic-release/issues"
   },
-  "homepage": "https://github.com/Brooooooklyn/ionic-npm#readme"
+  "homepage": "https://github.com/Brooooooklyn/ionic-release#readme"
 }
